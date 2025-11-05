@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:AudioObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": [
+    {
+      "@id": "@base:/1118ec_wine_caves.mp3"
+    },
+    {
+      "@id": "@base:/1118ec_wine_caves.pdf"
+    }
+  ],
+  "schema:creator": "Corn, Elaine",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonthDay",
+    "@value": "2010-11-16"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3p26qb8n",
+    "D-679"
+  ],
+  "schema:image": {
+    "@id": "@base:/capradio_logo.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Renaissance Of The Wine Cave",
+  "schema:publisher": "Capitol Public Radio"
+}
