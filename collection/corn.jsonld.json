@@ -42,7 +42,7 @@
    "schema:image": {
     "@id": "@base:/elaine_corn.jpg"
   },
-  "schema:name": "Elaine Corn CapRadio Segments",
+  "schema:name": "Elaine Corn Collection",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
