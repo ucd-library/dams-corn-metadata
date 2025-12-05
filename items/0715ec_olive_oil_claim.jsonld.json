@@ -17,6 +17,9 @@
   "schema:associatedMedia": [
     {
       "@id": "@base:/0715ec_olive_oil_claim.pdf"
+    },
+    {
+      "@id": "@base:/0715ec_olive_oil_claim.mp3"
     }
   ],
   "schema:creator": "Corn, Elaine",

@@ -16,6 +16,9 @@
   ],
   "schema:associatedMedia": [
     {
+      "@id": "@base:/1020ec_olivecure.pdf"
+    },
+    {
       "@id": "@base:/1020ec_olivecure.mp3"
     }
   ],

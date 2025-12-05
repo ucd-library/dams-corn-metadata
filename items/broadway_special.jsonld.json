@@ -16,6 +16,9 @@
   ],
   "schema:associatedMedia": [
     {
+      "@id": "@base:/broadway_special.pdf"
+    },
+    {
       "@id": "@base:/broadway_special.mp3"
     }
   ],
@@ -30,6 +33,6 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:name": "Broadway 30-minute Special",
+  "schema:name": "Broadway 30-Minute Special",
   "schema:publisher": "Capitol Public Radio"
 }

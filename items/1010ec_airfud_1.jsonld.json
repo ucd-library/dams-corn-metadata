@@ -16,6 +16,9 @@
   ],
   "schema:associatedMedia": [
     {
+      "@id": "@base:/1010ec_airfud_1.pdf"
+    },
+    {
       "@id": "@base:/1010ec_airfud_1.mp3"
     }
   ],

@@ -21,8 +21,17 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:publisher": "",
+  "schema:name": "Elaine Corn Interview",
   "schema:identifier": [
-    "D-679"
+    "D-679",
+    "ark:/87293/d3v98009p"
+  ],
+  "schema:associatedMedia": [
+    {
+      "@id": "@base:/ec_jb_zoom_audio_only_1.pdf"
+    },
+    {
+      "@id": "@base:/ec_jb_zoom_audio_only_1.m4a"
+    }
   ]
 }
