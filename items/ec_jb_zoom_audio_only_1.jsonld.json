@@ -14,7 +14,7 @@
     "schema:AudioObject",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "schema:creator": "",
+  "schema:creator": "Ballou, Jullianne",
   "schema:image": {
     "@id": "@base:/elaine_corn.jpg"
   },
